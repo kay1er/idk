@@ -1,0 +1,116 @@
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.csproj.AssemblyReference.cache
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.Login_Form.resources
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.MainForm.resources
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.csproj.GenerateResource.cache
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfoInputs.cache
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfo.cs
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.csproj.CoreCompileInputs.cache
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.sourcelink.json
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\idk.exe
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\idk.deps.json
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\idk.runtimeconfig.json
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\idk.dll
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\idk.pdb
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\gunny\source\repos\idk\idk\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.csproj.Up2Date
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.dll
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\refint\idk.dll
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.pdb
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.genruntimeconfig.cache
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\ref\idk.dll
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.ThemSinhVien.resources
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.ChinhSua.resources
+C:\Users\gunny\source\repos\idk\idk\obj\Debug\net8.0-windows\idk.SinhVienList.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.csproj.AssemblyReference.cache
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.ChinhSua.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.Login_Form.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.MainForm.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.SinhVienList.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.ThemSinhVien.resources
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.csproj.GenerateResource.cache
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfoInputs.cache
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfo.cs
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.csproj.CoreCompileInputs.cache
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\refint\idk.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.pdb
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\idk.exe
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\idk.deps.json
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\idk.runtimeconfig.json
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\idk.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\idk.pdb
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.csproj.Up2Date
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\idk.genruntimeconfig.cache
+C:\Users\kay1er\Downloads\idk-master (1)\idk-master\idk\idk\obj\Debug\net8.0-windows\ref\idk.dll
+D:\idk\idk\obj\Debug\net8.0-windows\idk.csproj.AssemblyReference.cache
+D:\idk\idk\obj\Debug\net8.0-windows\idk.Login_Form.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.MainForm.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.SinhVienList.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.ThemSinhVien.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.csproj.GenerateResource.cache
+D:\idk\idk\obj\Debug\net8.0-windows\idk.GeneratedMSBuildEditorConfig.editorconfig
+D:\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfoInputs.cache
+D:\idk\idk\obj\Debug\net8.0-windows\idk.AssemblyInfo.cs
+D:\idk\idk\obj\Debug\net8.0-windows\idk.csproj.CoreCompileInputs.cache
+D:\idk\idk\obj\Debug\net8.0-windows\idk.sourcelink.json
+D:\idk\idk\obj\Debug\net8.0-windows\idk.dll
+D:\idk\idk\obj\Debug\net8.0-windows\refint\idk.dll
+D:\idk\idk\obj\Debug\net8.0-windows\idk.pdb
+D:\idk\idk\bin\Debug\net8.0-windows\idk.exe
+D:\idk\idk\bin\Debug\net8.0-windows\idk.deps.json
+D:\idk\idk\bin\Debug\net8.0-windows\idk.runtimeconfig.json
+D:\idk\idk\bin\Debug\net8.0-windows\idk.dll
+D:\idk\idk\bin\Debug\net8.0-windows\idk.pdb
+D:\idk\idk\bin\Debug\net8.0-windows\System.Management.dll
+D:\idk\idk\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\idk\idk\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\idk\idk\obj\Debug\net8.0-windows\idk.csproj.Up2Date
+D:\idk\idk\obj\Debug\net8.0-windows\idk.genruntimeconfig.cache
+D:\idk\idk\obj\Debug\net8.0-windows\ref\idk.dll
+D:\idk\idk\obj\Debug\net8.0-windows\idk.XoaHoacChinhSua.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.ThongKe.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.ThemKhoaHoc.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.DanhSachKhoaHoc.resources
+D:\idk\idk\obj\Debug\net8.0-windows\idk.ChinhSuaMonHoc.resources
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\idk.exe
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\idk.deps.json
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\idk.runtimeconfig.json
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\idk.dll
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\idk.pdb
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\System.Management.dll
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\idk - Copy\idk\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.csproj.AssemblyReference.cache
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ChinhSuaMonHoc.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.DanhSachKhoaHoc.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.Login_Form.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.MainForm.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.SinhVienList.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ThemKhoaHoc.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ThemSinhVien.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ThongKe.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.XoaHoacChinhSua.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.csproj.GenerateResource.cache
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.GeneratedMSBuildEditorConfig.editorconfig
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.AssemblyInfoInputs.cache
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.AssemblyInfo.cs
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.csproj.CoreCompileInputs.cache
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.sourcelink.json
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.csproj.Up2Date
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.dll
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\refint\idk.dll
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.pdb
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.genruntimeconfig.cache
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\ref\idk.dll
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ThemDiem.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.DanhSachDiem.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.TimKiem.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ChinhSuaDiem.resources
+D:\idk - Copy\idk\obj\Debug\net8.0-windows\idk.ThongKeDiem.resources
